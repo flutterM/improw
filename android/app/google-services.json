@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993385667131",
+    "project_id": "improv-c142d",
+    "storage_bucket": "improv-c142d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993385667131:android:bf346ef5283cc6857f5a1e",
+        "android_client_info": {
+          "package_name": "com.example.improw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdU72aJEVXZAHou3Ef1EeSFX-Sd5yKSDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
